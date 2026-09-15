@@ -1,2 +1,3 @@
 # new project
 ready to built this
+short cuts are ready...
